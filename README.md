@@ -1,6 +1,6 @@
 👋 Ciao, mi chiamo Emanuela Calderone 😄
 
-💻 Junior Web Developer specializzata in Front-End, con un background umanistico e quasi 10 anni di esperienza come traduttrice audiovisiva (EN>IT, FR>IT).
+💻 **Junior Web Developer specializzata in Front-End**, con un background umanistico e quasi 10 anni di esperienza come traduttrice audiovisiva (EN>IT, FR>IT).
 
 Negli ultimi anni, le innovazioni tecnologiche — in particolare nel campo dell’AI — mi hanno spinta a riflettere sul futuro del lavoro e sulle opportunità offerte dalla tecnologia. Con uno sguardo lungimirante, ho scelto di rimboccarmi le maniche e ricominciare a studiare intraprendendo un percorso di Web Development, da sempre una mia passione, attratta dalla possibilità di operare in un settore dinamico e in continua evoluzione.
 
